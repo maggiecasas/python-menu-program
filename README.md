@@ -15,21 +15,24 @@ How to run:
 3. The program will print both menus and show total and average calories for each
 
 Example output:
-VEGETARIAN MENU
-APPETIZER - Olive Plate - 200
-ENTREE - Risotto With Steamed Vegetables - 470
-DESSERT - Fruit Tart - 265
---------------------
-Total Calories: 935
-Average Calories: 311.6666667
 
-NON-VEGETARIAN MENU
-Appetizer: Shrimp Cocktail - (330 cal)
-Entree: Chicken Carbonara - (740 cal)
-Dessert: Rum Cake - (585 cal)
---------------------
-Total Calories: 1655
-Average Calories: 551
+Vegetarian menu  
+Appetizer - Olive plate - 200  
+Entree - Risotto with steamed vegetables - 470  
+Dessert - Fruit tart - 265  
+--------------------  
+Total calories: 935  
+Average calories: 311.67  
+
+Non-vegetarian menu  
+Appetizer: Shrimp cocktail - (330 cal)  
+Entree: Chicken carbonara - (740 cal)  
+Dessert: Rum cake - (585 cal)  
+--------------------  
+Total calories: 1655  
+Average calories: 551
+
+
 
 Created by Maggie Casasnovas
 Course: Business Application Programming
